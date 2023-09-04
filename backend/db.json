@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "admin": false,
+      "id": 1
+    },
+    {
+      "name": "sakshi",
+      "email": "sakshi@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "admin": false,
+      "id": 2
+    },
+    {
+      "name": "ani",
+      "email": "ani@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "admin": true,
+      "id": 3
+    },
+    {
+      "name": "var",
+      "email": "var@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "admin": false,
+      "id": 4
+    },
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "admin": false,
+      "id": 5
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Hayat ji",
+      "mobile": 98989889,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dSrJQ-5BmMQT3M0PkouuQXoSQ-lzBCq9mg&usqp=CAU",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "murad",
+      "mobile": 98989889,
+      "image": "https://superstarsbio.com/wp-content/uploads/2018/09/Burak-Deniz-1.jpg",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "name": "Hayat",
+      "mobile": 98989889,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dSrJQ-5BmMQT3M0PkouuQXoSQ-lzBCq9mg&usqp=CAU",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "name": "Hayat",
+      "mobile": 98989889,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dSrJQ-5BmMQT3M0PkouuQXoSQ-lzBCq9mg&usqp=CAU",
+      "id": 10
+    },
+    {
+      "name": "varsha",
+      "mobile": 98989889,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dSrJQ-5BmMQT3M0PkouuQXoSQ-lzBCq9mg&usqp=CAU",
+      "userId": 1,
+      "id": 11
+    }
+  ]
+}
